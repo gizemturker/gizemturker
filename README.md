@@ -1,4 +1,4 @@
-### Hi there 👋, Gizem Türker
+
 #### iOS Development
 I'm Gizem from Turkey and I do content on Development and Design. I really enjoy learning languages and frameworks like Swift, SwiftUI. I also enjoy ui, ux, and design.
 
