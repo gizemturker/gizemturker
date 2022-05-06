@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **GrayCat.**
 
-- 🔭 I’m currently working on **UpSchool.**
+- 🔭 I’m currently working on **Akbank iOS Bootcamp.UpSchool.**
 
 - 🌱 I’m currently learning **UIKit, SwiftUI.**
 
