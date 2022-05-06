@@ -1,4 +1,7 @@
-<h3 align="left">A passionate iOS developer from Turkey.</h3>
+<img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+  </a>
+  
+  <h3 align="left">A passionate iOS developer from Turkey.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizemturker&label=Profile%20views&color=0e75b6&style=flat" alt="gizemturker" /> </p>
