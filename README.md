@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Gizem.;I'm+an+iOS+Engineer;I+love+programming+iPhone+iPad+(iOS)+projects.;Glad+to+see+you.">
   </a>
   
   <h3 align="left">A passionate iOS developer from Turkey.</h3>
