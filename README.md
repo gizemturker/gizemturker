@@ -1,5 +1,5 @@
 <h3 align="center">A passionate iOS developer from Turkey.</h3>
-<img align="right" alt="Coding" width="400" src= "https://i.gifer.com/1kc1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizemturker&label=Profile%20views&color=0e75b6&style=flat" alt="gizemturker" /> </p>
 
@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **GrayCat.**
 
+- 🔭 I’m currently working on **UpSchool.**
+
 - 🌱 I’m currently learning **UIKit, SwiftUI.**
 
-- 💬 Ask me about **iOS**
+- 💬 Ask me about **iOS, UIKit, SwiftUI**
 
 - 📫 How to reach me **gizemtrkr@icloud.com**
 
