@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Gizem.;I'm+an+iOS+Engineer;I+love+programming+iPhone+iPad+(iOS)+projects.;Glad+to+see+you.">
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Gizem.;I'm+an+iOS+Engineer;I+love+programming+iPhone+iPad+(iOS)+projects.">
   </a>
   
 
